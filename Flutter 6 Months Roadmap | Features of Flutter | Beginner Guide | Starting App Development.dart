@@ -1,1 +1,0 @@
-Flutter is an open source UI softwere devlopment kit created by Google.It is used to develop cross plateform application for Android,IOS,Linux,Mac,Windows,Google Fuchsia,and the web form a single codebase.
