@@ -6,6 +6,14 @@ Flutter is an open source UI softwere devlopment kit created by Google.It is use
 
 ### Where to start in Flutter?
 It's A matter of 6months:
+1. First Month->Only UI Design(user interface)
+   1. Login/Signup Page
+   2. Profile Page
+   3. Instagram UI
+   4. Whats App UI
+   5. Netflix UI
+   6. Spotify UI
+   7. E-commerce UI
 
 
 ![flutter-app-development-roadmap-by-tarikul](https://user-images.githubusercontent.com/68488154/140614209-2d0d6f20-1323-4968-bbce-738e0e8929d9.png)
