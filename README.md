@@ -3,7 +3,7 @@
 #### What is Flutter?
 Flutter is an open source UI softwere devlopment kit created by Google.It is used to develop cross plateform application for Android,IOS,Linux,Mac,Windows,Google Fuchsia,and the web form a single codebase.
 
-### Where to start in Flutter?
+                                               Where to start in Flutter?
 It's A matter of 6months:
 1. First Month-> Only UI Design(user interface):
    1. Login/Signup Page
@@ -33,6 +33,7 @@ It's A matter of 6months:
    5.  Start with Provider State Management also
 5. 5th Month -> Your own Backend + Flutter Web.
 6. 6th Month -> Clean Architecture
+..............................
 
                            10 Flutter Apps You Must Make as a Beginner | Flutter | App Development
 1. Simple Calculator
