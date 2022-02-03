@@ -33,6 +33,7 @@ It's A matter of 6months:
    5.  Start with Provider State Management also
 5. 5th Month -> Your own Backend + Flutter Web.
 6. 6th Month -> Clean Architecture
+
 ..............................
 
                            10 Flutter Apps You Must Make as a Beginner | Flutter | App Development
