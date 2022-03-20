@@ -1,9 +1,280 @@
-## [Flutter-Development-Roadmap](https://instacodeblog.com/roadmap-to-becoming-flutter-developer-updated-2021/#External_Libraries_for_Flutter_Developers)
+                                               Flutter App Development Guideline By Hamid
+
+<table align="center"  style="margin: 0px auto;">
+        <tr>
+            <th>No</th>
+            <th>Name of Topic</th>
+            <th>Tutorial List</th>
+            <th>Project</th>
+        </tr>
+        <tr>
+            <td colspan="4">Lesson 1: Introduction to Flutter and Dart Programming Language</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Introduction to Flutter and Dart</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Why Flutter</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Setup & Installation</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Writing Dart code</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="4">Lesson 2: Dart Programming</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Basics of Dart</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>OOP with Dart</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="4">Lesson 3: Flutter</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Introduction to Flutter & Flutter Architecture</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Widgets (100+)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Creating Beautiful UI With Flutter</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Responsive Design</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Navigation</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>User Inputs & Form</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>State Management Approaches (provider, getx)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Material Vs Cupertino Design</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Animations</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Passing Data between Screens</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>Api Integration & HTTP Request Handling</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Google Map</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>Admob Integration</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>Theme, Fonts & Assets</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>Localization</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>Local Database</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>10+ Frontend Projects</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="4">Lesson 4: Firebase</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Cloud Firestore</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Realtime Database</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Firebase Authentiaction</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>CRUD Operation</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Push Notification</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="4">Lesson 5: Payment Gateway</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Paypal or Stripe</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="4">Lesson 6: Figma</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Figma Basics</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Wireframes</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Prototyping</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>1 Project</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="4">Lesson 7: Project</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>1 Complete Project From Scratch</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Build & Prepare to Upload</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Upload to Store</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="4">Lesson 8: How to earn with Flutter</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Find work from Fiverr or Upwork</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Start your own Business</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Earn from your apps</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="4">Lesson 9: Tips & Tricks</td>
+        </tr>
+    </table>
 
 
+
+### [Flutter-Development-Roadmap](https://instacodeblog.com/roadmap-to-becoming-flutter-developer-updated-2021/#External_Libraries_for_Flutter_Developers)
 
 ### [Roadmap to Becoming Flutter Developer – Updated 2021](https://instacodeblog.com/roadmap-to-becoming-flutter-developer-updated-2021/#Conclusion)
-
 
 #### What is Flutter?
 Flutter is an open source UI softwere devlopment kit created by Google.It is used to develop cross plateform application for Android,IOS,Linux,Mac,Windows,Google Fuchsia,and the web form a single codebase.
