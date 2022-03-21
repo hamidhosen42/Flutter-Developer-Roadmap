@@ -14,13 +14,13 @@
             <td>1</td>
             <td><a href="https://www.freecodecamp.org/news/https-medium-com-rahman-sameeha-whats-flutter-an-intro-to-dart-6fc42ba7c4a3/#:~:text=Dart%20is%20the%20programming%20language,discovered%20a%20liking%20for%20JavaScript.">Introduction to Flutter and Dart</a></td>
           <td><li><a href="https://www.youtube.com/watch?v=QKpxJl-cr6g">JediPixels</a></li></td>
-            <td></td>
+             <td>NO</td>
         </tr>
         <tr>
             <td>2</td>
             <td><a href="https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/#:~:text=Flutter%20has%20many%20different%20features,for%20both%20Android%20and%20iOS.">Why Flutter</a></td>
             <td><li><a href="https://www.youtube.com/watch?v=L2OsgmirBwo">London App Brewery</a></li></td>
-            <td></td>
+             <td>NO</td>
         </tr>
         <tr>
             <td>3</td>
@@ -29,13 +29,13 @@
               <li><a href="https://www.youtube.com/watch?v=fDnqXmLSqtg">Bitfumes</a></li>
               <li><a href="https://www.youtube.com/watch?v=-z1DcFsZlpc">Patrik Horský</a></li>
             </td>
-            <td></td>
+             <td>NO</td>
         </tr>
         <tr>
             <td>4</td>
             <td><a href="https://dart.dev/">Writing Dart code</a></td>
             <td></td>
-            <td></td>
+             <td>NO</td>
         </tr>
         <tr>
             <td colspan="4">Lesson 2: Dart Programming</td>
@@ -49,7 +49,7 @@
               <li><a href="https://www.youtube.com/playlist?list=PLkyGuIcLcmx1mIPyMdVodlSVJqL7Y9Wv7">Rabbil Hasan</a></li>
               <li><a href="https://docs.google.com/document/d/1RXPyjCI-08emIhTYzR3wJrg_gC679UPxV0xYLFqhrSs/edit?usp=sharing">Dart Website link</a></li>
             </td>
-            <td></td>
+             <td>NO</td>
         </tr>
         <tr>
             <td>2</td>
@@ -61,16 +61,19 @@
               <li><a href="https://www.youtube.com/playlist?list=PLkyGuIcLcmx1mIPyMdVodlSVJqL7Y9Wv7">Rabbil Hasan</a></li>
               <li><a href="https://medium.com/run-dart/dart-dartlang-introduction-object-oriented-programming-c3d79d94d303">Medium</a></li>
             </td>
-            <td></td>
+             <td>NO</td>
         </tr>
         <tr>
             <td colspan="4">Lesson 3: Flutter</td>
         </tr>
         <tr>
             <td>1</td>
-            <td>Introduction to Flutter & Flutter Architecture</td>
-            <td></td>
-            <td></td>
+           <td><a href="https://docs.flutter.dev/resources/architectural-overview">Introduction to Flutter & Flutter Architecture</a></td>
+            <td>
+              <li><a href="https://drive.google.com/drive/folders/12_T2_mGsoWnZYZAJSsc8VD3Nhtv3IDjA?usp=sharing">Afran Sarkar</a></li>
+              <li><a href="https://www.youtube.com/watch?v=i9pkidtlX7c">Techno BD XYZ</a></li>
+            </td>
+            <td>NO</td>
         </tr>
         <tr>
             <td>2</td>
