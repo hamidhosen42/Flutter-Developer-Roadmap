@@ -12,7 +12,7 @@
         </tr>
         <tr>
             <td>1</td>
-            <td>[Introduction to Flutter and Dart](https://www.freecodecamp.org/news/https-medium-com-rahman-sameeha-whats-flutter-an-intro-to-dart-6fc42ba7c4a3/#:~:text=Dart%20is%20the%20programming%20language,discovered%20a%20liking%20for%20JavaScript.)</td>
+            <td><a href="https://www.freecodecamp.org/news/https-medium-com-rahman-sameeha-whats-flutter-an-intro-to-dart-6fc42ba7c4a3/#:~:text=Dart%20is%20the%20programming%20language,discovered%20a%20liking%20for%20JavaScript.">Introduction to Flutter and Dart</a></td>
             <td></td>
             <td></td>
         </tr>
