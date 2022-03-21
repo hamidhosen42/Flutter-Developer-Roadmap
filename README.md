@@ -61,7 +61,7 @@
               <li><a href="https://www.youtube.com/playlist?list=PLkyGuIcLcmx1mIPyMdVodlSVJqL7Y9Wv7">Rabbil Hasan</a></li>
               <li><a href="https://medium.com/run-dart/dart-dartlang-introduction-object-oriented-programming-c3d79d94d303">Medium</a></li>
             </td>
-             <td>NO</td>
+            <td>NO</td>
         </tr>
         <tr>
             <td colspan="4">Lesson 3: Flutter</td>
@@ -77,8 +77,14 @@
         </tr>
         <tr>
             <td>2</td>
-            <td>Widgets (100+)</td>
-            <td></td>
+            <td><a href="https://docs.flutter.dev/development/ui/widgets-intro">Widgets (100+)</a></td>
+            <td>
+              <li><a href="https://drive.google.com/drive/folders/18rSyYKCW7x4i23rDQTjHPGl-GsVFIAkR?usp=sharing">Afran Sarkar</a></li>
+              <li><a href="https://drive.google.com/drive/folders/1pCumBKHkWBRvrphUGMleJE-sjjCGATB8?usp=sharing">Error handling</a></li>
+              <li><a href="https://github.com/hamidhosen42/Dart-Syntax-Concept">Dart Github</a></li>
+              <li><a href="https://www.youtube.com/playlist?list=PLkyGuIcLcmx1mIPyMdVodlSVJqL7Y9Wv7">Rabbil Hasan</a></li>
+              <li><a href="https://medium.com/run-dart/dart-dartlang-introduction-object-oriented-programming-c3d79d94d303">Medium</a></li>
+            </td>
             <td></td>
         </tr>
         <tr>
