@@ -13,28 +13,27 @@
         <tr>
             <td>1</td>
             <td><a href="https://www.freecodecamp.org/news/https-medium-com-rahman-sameeha-whats-flutter-an-intro-to-dart-6fc42ba7c4a3/#:~:text=Dart%20is%20the%20programming%20language,discovered%20a%20liking%20for%20JavaScript.">Introduction to Flutter and Dart</a></td>
-          <td><li><a href="https://www.youtube.com/watch?v=QKpxJl-cr6g">Youtube:JediPixels</a></li></td>
+          <td><li><a href="https://www.youtube.com/watch?v=QKpxJl-cr6g">JediPixels</a></li></td>
             <td></td>
         </tr>
         <tr>
             <td>2</td>
             <td><a href="https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/#:~:text=Flutter%20has%20many%20different%20features,for%20both%20Android%20and%20iOS.">Why Flutter</a></td>
-            <td><li><a href="https://www.youtube.com/watch?v=L2OsgmirBwo">Youtube:London App Brewery</a></li></td>
+            <td><li><a href="https://www.youtube.com/watch?v=L2OsgmirBwo">London App Brewery</a></li></td>
             <td></td>
         </tr>
         <tr>
             <td>3</td>
             <td><a href="https://docs.flutter.dev/get-started/install">Setup & Installation</a></td>
             <td>
-              <li><a href="https://www.youtube.com/watch?v=fDnqXmLSqtg">Youtube:Bitfumes</a></li>
-              <li><a href="https://www.youtube.com/watch?v=-z1DcFsZlpc">Youtube:
-Patrik Horský</a></li>
+              <li><a href="https://www.youtube.com/watch?v=fDnqXmLSqtg">Bitfumes</a></li>
+              <li><a href="https://www.youtube.com/watch?v=-z1DcFsZlpc">Patrik Horský</a></li>
             </td>
             <td></td>
         </tr>
         <tr>
             <td>4</td>
-            <td>Writing Dart code</td>
+            <td><a href="https://dart.dev/">Writing Dart code</a></td>
             <td></td>
             <td></td>
         </tr>
@@ -43,8 +42,13 @@ Patrik Horský</a></li>
         </tr>
         <tr>
             <td>1</td>
-            <td>Basics of Dart</td>
-            <td></td>
+            <td><a href="https://github.com/hamidhosen42/Dart-Syntax-Concept/tree/main/1-Class1_All_Code">Basics of Dart</a></td>
+            <td>
+              <li><a href="https://drive.google.com/drive/folders/1qfRzarDJXgzVq4kuxCcWigLc56YusH3b?usp=sharing">Afran Sarkar</a></li>
+              <li><a href="https://dart.dev/codelabs/dart-cheatsheet">Dart Document</a></li>
+              <li><a href="https://www.youtube.com/playlist?list=PLkyGuIcLcmx1mIPyMdVodlSVJqL7Y9Wv7">Rabbil Hasan</a></li>
+              <li><a href="https://docs.google.com/document/d/1RXPyjCI-08emIhTYzR3wJrg_gC679UPxV0xYLFqhrSs/edit?usp=sharing">Dart Website link</a></li>
+            </td>
             <td></td>
         </tr>
         <tr>
