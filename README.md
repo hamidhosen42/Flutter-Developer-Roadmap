@@ -53,8 +53,13 @@
         </tr>
         <tr>
             <td>2</td>
-            <td>OOP with Dart</td>
-            <td></td>
+            <td><a href="https://github.com/hamidhosen42/Dart-Syntax-Concept/tree/main/2-Class2-All_Code">OOP with Dart</a></td>
+            <td>
+              <li><a href="https://drive.google.com/drive/folders/18rSyYKCW7x4i23rDQTjHPGl-GsVFIAkR?usp=sharing">Afran Sarkar</a></li>
+              <li><a href="https://dart.dev/codelabs/dart-cheatsheet">Dart Document</a></li>
+              <li><a href="https://www.youtube.com/playlist?list=PLkyGuIcLcmx1mIPyMdVodlSVJqL7Y9Wv7">Rabbil Hasan</a></li>
+              <li><a href="https://docs.google.com/document/d/1RXPyjCI-08emIhTYzR3wJrg_gC679UPxV0xYLFqhrSs/edit?usp=sharing">Dart Website link</a></li>
+            </td>
             <td></td>
         </tr>
         <tr>
