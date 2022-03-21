@@ -25,8 +25,11 @@
         <tr>
             <td>3</td>
             <td><a href="https://docs.flutter.dev/get-started/install">Setup & Installation</a></td>
-            <td><li><a href="https://www.youtube.com/watch?v=fDnqXmLSqtg">Youtube:Bitfumes</a></li></td>
-          <td><li><a href="https://www.youtube.com/watch?v=fDnqXmLSqtg">Youtube:Bitfumes</a></li></td>
+            <td>
+              <li><a href="https://www.youtube.com/watch?v=fDnqXmLSqtg">Youtube:Bitfumes</a></li>
+              <li><a href="https://www.youtube.com/watch?v=-z1DcFsZlpc">Youtube:
+Patrik Horský</a></li>
+            </td>
             <td></td>
         </tr>
         <tr>
