@@ -18,8 +18,8 @@
         </tr>
         <tr>
             <td>2</td>
-            <td>Why Flutter</td>
-            <td></td>
+            <td><a href="https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/#:~:text=Flutter%20has%20many%20different%20features,for%20both%20Android%20and%20iOS.">Why Flutter</a></td>
+            <td><li><a href="https://www.youtube.com/watch?v=L2OsgmirBwo">Youtube:London App Brewery</a></li></td>
             <td></td>
         </tr>
         <tr>
